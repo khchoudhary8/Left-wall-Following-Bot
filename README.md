@@ -4,11 +4,11 @@ https://drive.google.com/folderview?id=11SEMMFVuPzoS2j-m5MYnhnwclNzpJLuy
 
 ## Shots
 
-<img src="https://user-images.githubusercontent.com/76583677/225940066-661614ba-a07b-49f9-b0dc-566d90ae966c.jpg" width="180" height="400"><img src="https://user-images.githubusercontent.com/76583677/225940383-0b405003-1e81-4d78-9203-3ab127a24c08.jpg" width="180" height="400">
+<img src="https://user-images.githubusercontent.com/76583677/225940066-661614ba-a07b-49f9-b0dc-566d90ae966c.jpg" width="280" height="400"><img src="https://user-images.githubusercontent.com/76583677/225940383-0b405003-1e81-4d78-9203-3ab127a24c08.jpg" width="280" height="400">
 
 ## Video Demo:
 
-https://drive.google.com/file/d/17MtKrWiHU5QxOc7UVpjqQj12T-hOEL5e/view?usp=sharing
+https://user-images.githubusercontent.com/76583677/225941221-52307dd0-0722-4545-be35-f87dbf8ecfcb.mp4
 
 
 
